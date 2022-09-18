@@ -7,5 +7,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="booking-app" />
     <orderEntry type="module" module-name="Article-app" />
+    <orderEntry type="module" module-name="go_rest_api" />
   </component>
 </module>
