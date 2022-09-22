@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	fmt.Println("The time is", time.Now())
 
 	var size int
 	fmt.Println("Enter the size of the array")
@@ -22,5 +23,5 @@ func main() {
 		total += a
 	}
 	fmt.Println("Here is your output", total)
-	fmt.Println("The time is", time.Now())
+
 }
