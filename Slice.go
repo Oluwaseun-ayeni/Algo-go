@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 func main() {
 
@@ -19,4 +22,5 @@ func main() {
 		total += a
 	}
 	fmt.Println("Here is your output", total)
+	fmt.Println("The time is", time.Now())
 }
